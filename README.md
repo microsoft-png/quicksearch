@@ -1,3 +1,12 @@
+# Feautures to add
+
+- [ ] Edit snippets
+- [x] Delete snippets
+- [ ] upvote & downvote snippets
+- [ ] open up webview to see multiple snippets of same name
+- [ ] authorization
+
+
 # quicksearch
 
 Welcome to quicksearch. The quickest way to get code snippets without leaving your ide.
